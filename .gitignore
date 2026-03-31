@@ -1,0 +1,16 @@
+archive/
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# WebView2 and local editor experiments
+src/NOTESELF.Editor.Web/node_modules/
+src/NOTESELF.Editor.Web/dist/
+
+# Local worktrees or temporary scaffolding
+.worktrees/
